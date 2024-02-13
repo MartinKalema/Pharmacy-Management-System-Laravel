@@ -9,7 +9,7 @@ export default defineConfig({
     }),
   ],
   build: {
-    outDir: 'public'
+    outDir: 'dist'
   }
 });
 
